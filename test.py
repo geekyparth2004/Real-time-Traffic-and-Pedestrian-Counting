@@ -1,11 +1,3 @@
-# ================================================================
-#   Copyright (C) 2019 * Ltd. All rights reserved.
-#
-#   Author      : Clemente420
-#   Created date: 2019-11-14
-#
-# ================================================================
-
 import cv2
 import os
 import shutil
